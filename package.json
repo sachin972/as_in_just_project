@@ -1,4 +1,5 @@
 {
+  "author": "Sachin Tripathi",
   "name": "just_project",
   "version": "1.0.0",
   "description": "This is just to learn the basics of npm",
@@ -10,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/sachin972/as_in_just_project.git"
   },
-  "author": "Sachin Tripathi",
+  
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/sachin972/as_in_just_project/issues"
