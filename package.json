@@ -10,9 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/sachin972/as_in_just_project.git"
   },
-  "keywords": ["freecodecamp"]
+  "keywords": ["freecodecamp", "learning"]
   "author": "sachin",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/sachin972/as_in_just_project/issues"
   },
