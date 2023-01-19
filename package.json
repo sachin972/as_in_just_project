@@ -1,5 +1,19 @@
 {
-  "author": "Sachin Tripathi",
-  "name": "just_project",
-  "version": "1.0.0"
+  "name": "as_in_just_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sachin972/as_in_just_project.git"
+  },
+  "author": "sachin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sachin972/as_in_just_project/issues"
+  },
+  "homepage": "https://github.com/sachin972/as_in_just_project#readme"
 }
