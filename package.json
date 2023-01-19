@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/sachin972/as_in_just_project.git"
   },
+  "keywords": ["freecodecamp"]
   "author": "sachin",
   "license": "ISC",
   "bugs": {
