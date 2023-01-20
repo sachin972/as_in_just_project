@@ -1,7 +1,7 @@
 {
   "name": "as_in_just_project",
   "version": "1.0.0",
-  "description": "This is just to learn more about backend",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,12 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/sachin972/as_in_just_project.git"
   },
-  "keywords": [
-    "freecodecamp",
-    "learning"
-  ],
   "author": "sachin",
-  "license": "MIT",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/sachin972/as_in_just_project/issues"
   },
